@@ -1,0 +1,70 @@
+kind: ComponentConfiguration/v1
+metadata:
+  guid: 58bea311-7060-486d-8621-fd492865115a
+  name: Untitled Configuration
+  version: 
+  description: 
+template:
+  name: Integrated Circuit 2
+  guid: 2cd49d7c-eb1a-4fe4-9104-c45023e3fc95
+properties:
+- name: Header
+  value: huzzah32
+- name: Size
+  value: 32
+- name: Pin0
+  value: RESET
+- name: Pin2
+  value: 3.3v
+- name: Pin4
+  value: N/C
+- name: Pin6
+  value: GND
+- name: Pin8
+  value: A0
+- name: Pin9
+  value: VBAT
+- name: Pin10
+  value: A1
+- name: Pin11
+  value: EN
+- name: Pin12
+  value: A2
+- name: Pin13
+  value: VBUS
+- name: Pin14
+  value: A3
+- name: Pin15
+  value: IO13
+- name: Pin16
+  value: A4
+- name: Pin17
+  value: IO12
+- name: Pin18
+  value: A5
+- name: Pin19
+  value: IO27
+- name: Pin20
+  value: SCK
+- name: Pin21
+  value: IO33
+- name: Pin22
+  value: MOSI
+- name: Pin23
+  value: IO15
+- name: Pin24
+  value: MISO
+- name: Pin25
+  value: IO32
+- name: Pin26
+  value: IO16
+- name: Pin27
+  value: IO14
+- name: Pin28
+  value: IO17
+- name: Pin29
+  value: SCL
+- name: Pin30
+  value: IO21
+- name: Pin31
+  value: SDA
